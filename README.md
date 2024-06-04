@@ -5,11 +5,13 @@
 <img src="/banner.jpg">
 </div>
 <div align="center">
+  
 [![Linkedin link](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lautaro-ocatavio-faure/)
 [![Instagram link](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.twitch.tv/aristidevs](https://www.instagram.com/faurelautaro/))
 [![Whatsapp link](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/3541335850)
 [![x link](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Developer_faure)
 [![portafolio link](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://portafolio-dun-sigma.vercel.app)
+
 </div>
 
 ## Sobre mi
