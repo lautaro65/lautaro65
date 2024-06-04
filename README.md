@@ -16,11 +16,10 @@
 
 ## Sobre mi
 
-- ⭐ Web Developer - Front End ⭐  
-- 📚 3 años de experiencia en el área 
-- 💼 Portafolio Web [Click](https://portafolio-dun-sigma.vercel.app)
-- 📗 Autor del libro [Iniciación a Android en Kotlin. Casos prácticos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)
-- 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
+- ⭐ Web Developer - Front End ⭐
+- 🧑🏻 Soy argentino y tengo 18 años
+- 📚 3 años de experiencia en el área
+- 💼 Portafolio Web [Link](https://portafolio-dun-sigma.vercel.app)
 <br>
 
 ## Proyectos *bombitas*
