@@ -30,21 +30,21 @@
 <div align="center">
 <a href="https://github.com/lautaro65/Portafolio" target="_blank"><img src="/portada.PNG" width="400" alt="Curso básico android"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
+<a href="https://github.com/lautaro65/Portafolio" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/vJapzH_46a8" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+<a href="https://portafolio-dun-sigma.vercel.app" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p>Uno de mis protectos más importantes es mi portafolio donde intento explicar todo lo q logre aprender y todas las habilidades q desarrole durante estos 3 años, tambien es uno de mis proyectos favoritos ya q mi intencion es seguir avanzando en el mundo del desarrollo web a la vez q sigo mejorando tambien mi portafolio.</p>
 </div>
                                                                                       
 </td>
 
 <td width="50%">
                <br>
-<h3 align="center">Arquitectura MVVM</h3>
+<h3 align="center">Portafolio</h3>
 <div align="center">                                       
 <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="/portada.PNG" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
