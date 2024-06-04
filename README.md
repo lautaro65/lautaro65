@@ -7,7 +7,7 @@
 
 [![YouTube Channel Subscribers](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lautaro-ocatavio-faure/)
 [![Twitch Status](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.twitch.tv/aristidevs](https://www.instagram.com/faurelautaro/))
-[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
+[![GitHub followers](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/3541335850)
 ![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
 
 ## Sobre mi
