@@ -37,7 +37,7 @@
 <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white">
 </a>
 </p>
-<p>Uno de mis protectos más importantes es mi portafolio donde intento explicar todo lo q logre aprender y todas las habilidades q desarrole durante estos 3 años, tambien es uno de mis proyectos favoritos ya q mi intencion es seguir avanzando en el mundo del desarrollo web a la vez q sigo mejorando tambien mi portafolio.</p>
+<p>Uno de mis proyectos más importantes es mi portafolio donde intento explicar todo lo que logre aprender y todas las habilidades que desarrollé durante estos 3 años, también es uno de mis proyectos favoritos ya que mi intención es seguir avanzando en el mundo del desarrollo web a la vez que sigo mejorando también mi portafolio.</p>
 </div>
                                                                                       
 </td>
