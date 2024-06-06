@@ -28,7 +28,7 @@
 <td width="50%">
 <h3 align="center">Portafolio</h3>
 <div align="center">
-<a href="https://github.com/lautaro65/Portafolio" target="_blank"><img src="/portada2.png" width="700" alt="Curso básico android"></a>
+<a href="https://github.com/lautaro65/Portafolio" target="_blank"><img src="/portada2.png" width="500" alt="Curso básico android"></a>
 <p>
 <a href="https://github.com/lautaro65/Portafolio" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
